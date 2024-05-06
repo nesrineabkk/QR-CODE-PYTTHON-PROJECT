@@ -17,6 +17,9 @@ def convert_url_into_qr_code(url: str):
    qrcode.save('qr_code_project.svg', scale=4)
 
 
+   
+
+
 
 
                       
