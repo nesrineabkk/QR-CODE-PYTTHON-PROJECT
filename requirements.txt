@@ -1,0 +1,8 @@
+segno==1.6.1
+pytest==8.2.0
+# `pytest` plugins.
+pytest-docstyle
+pytest-isort==4.0.0
+pytest-mypy==0.10.3
+pytest-flakes==4.0.5
+pytest-pycodestyle==2.3.1
